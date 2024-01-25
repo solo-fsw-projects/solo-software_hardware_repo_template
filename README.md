@@ -8,9 +8,9 @@ The remainder of this README file contains a few notes on repository naming conv
 
 ## Naming conventions
 
-SOLO uses two github organisations. The solo-fsw contains organisation internal projects (not for specific research groups), while the solo-fsw-projects organisation contains projects done for or in collaboration with specific researcher(s) / reasearch groups.
+SOLO uses two github organisations. The solo-fsw organisation contains internal projects (not for specific research groups), while the solo-fsw-projects organisation contains projects done for or in collaboration with specific researcher(s) / reasearch groups.
 
-The repositories in both organisations follow the naming convention `<Project name/description>-<Date/Year if applicable>`. The solo-fsw-projects repos are further pre-pended with `<Lab/section/institute>-<PI/lead-researcher if applicable>-`. The clauses are writter using lower-case letters and numbers. Underscores are used as spaces withing clauses (snake_case). Dashes are used to separate clauses.
+The repositories in both organisations follow the naming convention `<Project name/description>-<Date/Year if applicable>`. The solo-fsw-projects repos are further pre-pended with `<Lab/section/institute>-<PI/lead-researcher if applicable>-`. The clauses are written using lower-case letters and numbers. Underscores are used as spaces within clauses (snake_case). Dashes are used to separate clauses.
  
 ### Examples in solo-fsw-projects
 
